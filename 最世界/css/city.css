@@ -1,0 +1,32 @@
+
+
+body{width: 1583px;height: 7258px;background: #333}
+#nav{background: #fff}
+/*.city{width: 1583px;height: 102px;background: red};*/
+.content_city{width: 1115px;height: 96px;margin-left: 200px;background: #fff}
+.wei{float: left;margin:25px auto 0;margin-left: 10px}
+.allCity{float: left;margin:25px auto 0;background: green;margin-left: 10px}
+.div_city{float: left;margin:25px auto 0;}
+.div_city ul li{display: inline-block;margin-left: 22px}
+
+.nav-div {width: 1160px;height: 92px;margin-left: 200px;padding-top: 40px}
+.nav-divul{padding-top: 30px}
+.nav-div ul a{color: #fff}
+.nav-div ul input{vertical-align: middle;}
+.nav-div li{display: inline-block;margin-right: 20px;vertical-align: middle;}
+.tab-img{width: 1585px;height: 5960px;}
+.city-ul{margin-left: 200px;width: 1585px;height: 280px}
+
+.text_div{width: 695px;height: 280px;background: #fff;}
+.city-ul img{float: left}
+.text_div {float: left}
+.text_span{display: inline-block;}
+.text_right{display: inline-block;margin-left: 500px}
+.text_span{width: 35px;height: 25px;border:1px solid #333;display: inherit;font-size: 13px;line-height: 25px;text-align: center;display: inline-block;margin-left: 20px;margin-top: 20px}
+.text_h3{margin-top: 20px;margin-left: 20px;font-size: 22px;width: 625px;}
+.ul_right{width: 175px;height: 82px;margin-left: 565px;line-height: 82px;line-height: 125px;margin-top: -40px}
+.newPrice{font-size: 30px;color: red}
+.goshopping{background: #ff7362;width: 130px;height: 42px;text-align: center;margin-left: 565px;line-height: 42px;position: absolute;top: 238px;}
+.city-ul {margin-top: 20px;position: relative;}
+.text_div ul{margin-left: 50px;padding-top: 18px}
+.text_div li{line-height: 20px}

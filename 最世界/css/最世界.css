@@ -1,0 +1,229 @@
+
+*{margin: 0;padding: 0;font-size: 12px}
+li{list-style: none;}
+a{text-decoration: none;color: #333}
+
+/*头部*/
+ .img_header img{height: 17px;width: 60px;margin: 8px} 
+#header {width: 1580px;height: 30px;background: #323232;}
+#header a{color: #fff}
+.img_header{padding:0px 0 0 28px;float: left;}
+#headerU{float: left;width: 700px;padding: 5px 0 0 50px;height: 25px;}
+#headerU .header_first_ul li{display: inline-block;margin-right:15px;text-align: center;height: 22px;line-height: 22px;}
+ 
+.header_big{color: #10b041}
+.heade_show1 {width: 200px;height: 80px;background: gold;position: absolute;display: none;}
+ .yu_ding{height: 200px;width: 50px;}
+.hover_ul_first{width: 270px;height: 420px;background:rgba(0,0,0,.7);}
+ /*right*/
+ #header_right {width: 360px;height: 28px;float: left;margin-left: 337px}
+ .header_btn img{width: 18px;height: 18px; position: absolute; top: 5px;right: -145px;}
+ .header_form{float: left;position: relative;background: red}
+ .header_form input {/*display: none;*/position: absolute;margin-top: 4px;border-radius: 10%;}
+ .header_div2 {float: left;margin-left: 139px}
+  .header_div2 ul li {float: left;margin-left: 16px;line-height: 16px;margin-top: 7px;}
+
+  .related {font-size: 30px;color: #333;font-family: 700}
+
+
+  /*log*/
+  #log {height: 115px;background: url(../images/log_bg.jpg);width: 1580px;}
+  .log_img1 img{margin-top: 35px;margin-left: 50px;float: left;}
+  .log_center {width: 496px;height: 40px;background: white;float: left;border-radius: 20px;margin-top: 40px;border: 1px solid;margin-left: 50px; }
+  .log_center  .header_input1{width: 365px;height: 40px;float: left;border: none;margin-left: 15px;border: none;outline: none;}
+ .log_center .p1{width: 1px;height: 30px;background: #8ae1cb;float: left;margin-top: 5px;}
+ .header_submit {width: 81px;height: 40px;border: none;background: #fff;float: left;border-top-right-radius:20px; border-bottom-right-radius:20px;font-size: 18px;position: absolute;left: 843px;}
+ .log_p {position: absolute;left: 812px;width: 120px;border-top-right-radius:20px; border-bottom-right-radius:20px;cursor: pointer;height: 40px}
+ .log_p img{width: 30px;height: 30px;margin-top: 5px;margin-left: 17px;}
+
+ .log_right{width: 446px;height: 120px;float: left;margin-left: 200px;
+ 	background: url(../images/head-wordbg.png);position: relative;}
+.log_right_app .logImg1{margin-left: 95px;}
+.log_right_app .logImg2 {position: absolute;top: 10px;left: 108px;width: 36px;}
+
+#nav {height: 45px;width:1580px;line-height: 45px;color: #323232;font-size: 15px;}
+#nav ul {margin-left: 200px;float: left;margin-top: -5px;}
+#nav li{float: left;}
+#nav li a{padding: 16px 36px;color: #333}
+/*主体*/
+#main {position: relative;}
+.main_img{height: 420px;width:1580px;overflow: hidden; }
+.content_img { width: 6320px;transition: all 2s;}
+.content_img img{float: left;}
+.content_img img {width:1580px;height: 425px}
+.main_hover {height: 425px;width:1580px;position: absolute;z-index: 1px;top: 0;left: 100px}
+.main_hover ul .hover_ul_first {position: relative;width: 276px;background: #4c3002;}
+.main_hover ul li {height: 60px;}
+.click_div{width: 259px;}
+.main_hover ul li .hover_ul_first{height: 60px;background: #1e1a15;opacity: 0.8;}
+.main_hover img{float: left;width: 40px;height: 40px;margin: 10px 10px 0 10px;} 
+.main_hover h3{padding: 10px 0;color: #d2f2ff}
+.hover_show {width: 750px;height: 100%;position: absolute;left: 275px;top: 0;/*display: none;background: #fff*/}
+#zImg {width:1580px;height: 135px}
+#zImg ul{margin-left: 200px}
+#zImg li img{float: left;margin:10px;}
+.show_chen{position: absolute;left: 200px;width: 800px;height: 400px;background: red;top:0;left: 270px}
+
+.xstm {width:1580px;background: #f5f5f5;height: 280px;}
+.xs_up {height: 100px;width:1580px;}
+.xs_up h3{font-size: 50px;margin: 35px 0  0 205px }
+.xs_up h3,p{float: left;}
+.xs_up_p1 {margin: 50px 0 0 5px;}
+.xs_up_p2 {margin: 50px 210px 0 750px}
+.huan_img  ul{margin-left: 200px;}
+.huan_img ul li{ width: 375px;height: 125px;float: left;margin-left: 10px}
+.huan_img  li a{display: inline-block; width: 375px;height: 125px;background:#fff ;float: left;margin-left: 10px}
+.huan_img p{float: left;border-top:5px solid #474747  }
+.huan_img h3 {font-size: 17px;padding-top: 10px;line-height: 25px;padding-left: 130px;color: #323232;border-top:5px solid #ff7467}
+.huan_red {margin-left: 300px;margin-top: 30px;}
+.huan_red span {font-size: 25px;color: red}
+
+
+
+/*tab部分*/
+.tab_first {width:1580px;height: 710px;}
+.tab_left {width: 485px;height: 105px;float: left;}
+.tab_header {margin-left: 210px;width:1370px;height: 105px; }
+.tab_header h3{padding-top: 30px;font-size: 35px;float: left;}
+.tab_header  p{float: left;margin-top: 50px}
+.tab_header ul{float: left;}
+.tab_right {width: 615px;height: 105px;float: left;margin-left: 100px}
+.tab_right ul {width: 615px;height: 105px;margin-top: 53px}
+.tab_right ul li {float: left;}
+.tab_right ul li  a{color: #333 ;margin-left: 10px;font-size: 15px;}
+
+.tab_showDiv {width: 1370px;height: 585px;margin-left: 210px;}
+.tab_showDiv li{float: left;padding: 20px 0 0 20px;position: relative;height: 269px;}
+.imgP  img{width: 565px;height: 268px}
+.tab_tab1 .tp1{width: 80px;height: 40px;background: #333;opacity: 0.8;line-height: 40px;text-align: center;color: #fff}
+.tab_tab1 .tp2  {width: 80px;height: 40px;line-height: 40px;text-align: center;opacity: 0.8;background: #ff7467;color: #fff}
+.tab_tab1 .tp2 span{color: red;font-size: 20px}
+.tab_tab1 {position: absolute;top: 186px;}
+.index_tab {position: absolute;top: 225px;background: #333;opacity: 0.8;width: 555px;height: 62px;line-height: 30px;}
+.div_jiu {width:275px; }
+/*小兔*/
+.tab_tabX {position: absolute;top: 165px;}
+.tab_tabX .tp1 {width: 80px;height: 40px;background: #333;opacity: 0.8;line-height: 40px;text-align: center;;color: #fff}
+.tab_tabX .tp2  {width: 80px;height: 40px;line-height: 40px;text-align: center;opacity: 0.8;background: #ff7467}
+.div_jiu {border: 1px solid #fff;margin-top: -4px;}
+.div_jiu h3 {font-size: 20px;color: #333;margin-top: 10px}
+
+.tab_first {overflow: hidden;}
+/*赋值上边代码*/
+ .tab1_left {width: 485px;height: 105px;float: left;}
+.tab1_header {margin-left: 210px;width:1370px;height: 105px;}
+.tab1_header h3{padding-top: 30px;font-size: 35px;float: left;}
+.tab1_header  p{float: left;margin-top: 50px}
+.tab1_header ul{float: left;}
+.tab1_right {width: 615px;height: 105px;float: left;margin-left: 100px}
+.tab1_right ul {width: 615px;height: 105px;margin-top: 53px}
+.tab1_right ul li {float: left;}
+.tab1_right ul li  a{color: #333 ;margin-left: 10px;font-size: 15px;}
+
+
+
+#play_div {width: 1580px;height: 560px;background: #f5f5f5}
+.tab_show2_left {width: 420px;height: 410px;float: left;position: relative;}
+
+
+/*第二部分show*/
+#tab_big_div{width: 1580px;height: 448px;overflow: hidden;}
+.tab1_showDiv {margin-left: 205px;height: 450px;}
+.show2_img h3 {position: absolute;top: 200px;font-size: 20px;margin-left: 25px;color: #333}
+.show2_img div {position: absolute;top: 240px;left: 25px;}
+.show2_img div span {margin-left: 275px;font-size: 32px;color: red}
+
+.show2_li1 {height: 280px}
+.show_li2 {height: 60px;background: #fff;margin-top:30px;height: 122px;}
+.show2_div {border:1px solid #fff;}
+/*小兔a的大小设置a*/
+.show_li2  a{display: inline-block;width: 421px;height: 121px;}
+.show2_div h3{font-size: 20px;color: #333;margin: 10px 0 0 145px;}
+.showPP {margin: 48px 0px 5px 205px;color: #333}
+.showPP span {font-size: 15px;color: red;}
+.show2_div p .sImg{font-size: 20px;line-height: 20px;color: #333;margin: 10px 24px 10px 138px}
+/*.show2_img {width: 500px;height: 300px;background: red}*/
+
+
+/*tab 2中级那*/
+.tab_show2_center {width: 420px;height: 450px;float: left;margin: 0 10px;}
+/*img*/
+.tab_show2_center img {display: inline-block;width: 120px;height: 125px;}
+.tab_show2_center a{display: inline-block;width: 421px;height: 125px;background: #fff;margin-bottom: 28px}
+.show2_center_img h3 {padding:18px 5px 0 130px;font-size: 19px;color: #333}
+.center_moveP {margin: 10px 0 0 230px}
+.show2_center_img span{font-size: 40px;color: red}
+
+
+/*右侧*/
+.tab_show2_right {width: 420px;height: 450px;float: left;position: relative;}
+.tab_show2_twoli {width: 420px;height: 280px;background: #ff6773;display: inline-block;margin-top: 25px}
+
+.tab_show2_twoli .first_div{margin: 70px 0 0 -35px;line-height: 20px;text-align: center;}
+.show2_rightLi a{background: #fff;display: inline-block;width: 420px;height: 121px;}
+.tab_show2_twoli .first_div  h3{font-size: 20px;}
+.right_center {width: 70px;height: 70px;border-radius: 50%;border: 2px solid #fff;text-align: center;line-height: 70px;font-size: 40px;font-weight: bold;margin: 10px 0 0 155px}
+
+.right_divA {position: absolute;top:400px;left: 100px;color: #fff}
+.right_divA  a{color: #fff}
+
+/*主题*/
+.tab_zhuTi {width:1580px;height: 680px;overflow: hidden;}
+.tab_left_zhuTi {width: 485px;height: 105px;float: left;}
+#show11_zhuTi {margin-left: 210px}
+.tab_header_zhuTi {margin-left: 210px;width:1370px;height: 105px; }
+.tab_header_zhuTi h3{padding-top: 30px;font-size: 35px;float: left;}
+.tab_header_zhuTi  p{float: left;margin-top: 50px}
+.tab_header_zhuTi ul{float: left;}
+.tab_right_zhuTi {width: 615px;height: 105px;float: left;margin-left: 100px}
+.tab_right_zhuTi ul {width: 615px;height: 105px;margin-top: 53px}
+.tab_right_zhuTi ul li {float: left;}
+.tab_right_zhuTi ul li  a{color: #333 ;margin-left: 10px;font-size: 15px;} */
+
+.tab_showDiv_zhuTi {width: 1370px;height: 585px;margin-left: 210px;}
+.tab_showDiv_zhuTi li{float: left;padding: 20px 0 0 20px;position: relative;height: 269px;}
+.imgP_zhuTi  img{width: 565px;height: 268px}
+.tab_tab1_zhuTi .tp1{width: 80px;height: 40px;background: #333;opacity: 0.8;line-height: 40px;text-align: center;;color: #fff}
+.tab_tab1_zhuTi .tp2  {width: 80px;height: 40px;line-height: 40px;text-align: center;opacity: 0.8;background: #ff7467}
+.tab_tab1_zhuTi .tp2 span{color: red;font-size: 20px}
+.tab_tab1_zhuTi {position: absolute;top: 186px;}
+.index_tab_zhuTi {position: absolute;top: 225px;background: #333;opacity: 0.8;width: 555px;height: 62px;line-height: 30px;}
+.div_jiu_zhuTi {width:275px; }
+/*小兔*/
+.tab_tabX_zhuTi {position: absolute;top: 165px;}
+.tab_tabX_zhuTi .tp1 {width: 80px;height: 40px;background: #333;opacity: 0.8;line-height: 40px;text-align: center;;color: #fff}
+.tab_tabX_zhuTi .tp2  {width: 80px;height: 40px;line-height: 40px;text-align: center;opacity: 0.8;background: #ff7467}
+.div_jiu_zhuTi {border: 1px solid #fff;margin-top: -4px;}
+.div_jiu_zhuTi h3 {font-size: 20px;color: #333;margin-top: 10px}
+
+
+
+
+
+#foot_one{height: 200px;background: #f5f5f5}
+.foot_one_div1 {padding: 20px 0 0 280px}
+.foot_one_div1  li{display: inline-block;padding-left: 40px;font-size: 20px;background: url(../images/line2.png) no-repeat left 8px;width:80px; }
+.foot_twoUl {margin: 80px 0 0 330px;position: relative;}
+.foot_twoUl li {width: 276px;display: inline-block;margin-right: 115px}
+.foot_twoUl .foot_bg {width: 56px;height: 56px;position: absolute; background: url(../images/foot-feature.png);left: -69px;top: -10px;}
+.foot_twoUl .foot_bg1 {width: 56px;height: 56px;position: absolute; background: url(../images/foot-feature.png) 0;left: 330px;top: -10px;}
+.foot_twoUl .foot_bg2 {width: 56px;height: 56px;position: absolute; background: url(../images/foot-feature.png) 0 56px ;left: 725px;top: -10px;}
+
+
+#foot_last {height: 265px;background: #333}
+.foot_last_div1 {width: 1580px;height: 180px;}
+.foot_last_first {margin: 50px 0 0 280px;width: 725px;height: 200px;float: left;}
+.foot_last_first p{display: inline-block;}
+.foot_last_img1 {margin-top: 50px;float: left;}
+.foot_txt {width: 470px;margin-left: 20px;margin-top: 55px;line-height: 20px;}
+.foot_last_right {width: 500px;height: 200px;float: left;padding-top: 50px;margin-left: 50px;}
+.foot_last_right li{float: left;margin-left: 10px;}
+.foot_last_right img {width: 40px;height: 40px;display: inline-block;margin-top: 30px;}
+.foot_last_li {color: #fff;margin-right: 10px;margin-top: 40px;}
+
+.foot_foot a{color: #fff}
+.foot_foot ul {float: left;margin-left: 200px;margin-top: -50px;}
+.foot_foot li{float: left;padding-left: 50px;background:  url(../images/foot_foot.jpg) no-repeat 26px 0px;}
+.foot_foot .first{background: none}
+.foot-div-last p{width: 900px;margin-left: 250px;margin-top: -26px;color: #fff}
+.acb {margin-top: -4px;margin-left: 250px;color: #fff}

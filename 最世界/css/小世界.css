@@ -1,0 +1,67 @@
+
+
+*{margin: 0;padding: 0;font-size: 12px}
+li{list-style: none;}
+a{text-decoration: none;color: #333}
+
+/*头部*/
+.img1  img{width:1580px; }
+.img_header img{height: 17px;width: 60px;margin: 8px} 
+#header {width: 1580px;height: 30px;background: #323232;}
+#header a{color: #fff}
+.img_header{padding:0px 0 0 28px;float: left;}
+#headerU{float: left;width: 700px;padding: 5px 0 0 50px;height: 25px;}
+#headerU .header_first_ul li{display: inline-block;margin-right:15px;text-align: center;height: 22px;line-height: 22px;}
+ 
+.header_big{color: #10b041}
+.heade_show1 {width: 200px;height: 80px;position: absolute;display: none;}
+ .yu_ding{height: 200px;width: 50px;}
+
+ /*right*/
+ #header_right {width: 360px;height: 28px;float: left;margin-left: 337px}
+ .header_btn img{width: 18px;height: 18px; position: absolute; top: 5px;right: -145px;}
+ .header_form{float: left;position: relative;}
+ .header_form input {/*display: none;*/position: absolute;margin-top: 4px;border-radius: 10%;}
+ .header_div2 {float: left;margin-left: 139px}
+  .header_div2 ul li {float: left;margin-left: 16px;line-height: 16px;margin-top: 7px;}
+
+
+  /*log*/
+  #log {height: 158px;width: 1580px;}
+  .log_img1 img{margin-top: 35px;margin-left: 50px;float: left;}
+  .log_center {width: 670px;height: 40px;background: white;float: left;border-radius: 20px;margin-top: 40px;border: 1px solid;margin-left: 50px; }
+  .log_center  .header_input1{width: 465px;height: 40px;float: left;border: none;margin-left: 15px;border: none;outline: none;}
+ .log_right {width: 445px;height: 40px;float: left;margin:38px; text-align: center;line-height: 20px;vertical-align: middle;}
+ .log_right span{vertical-align: middle;margin-left: 8px;}
+ .log_right a{display: inline-block;vertical-align: middle;margin-top: 10px;margin-left: 10px}
+ .log_right {vertical-align: middle;}
+ .log_right img {vertical-align: middle;padding-left: 10px}
+ .log_g {border-left: 1px solid grey;}
+ .nav {width: 1580px;height: 40px;float: left;border-bottom: 2px solid green}
+ .nav a{display: inherit;background: red;padding-left: 16px;padding-right: 19px;}
+ .nav ul{margin-left:155px;  }
+  .nav ul li {float: left;line-height: 40px;padding-right: 38px}
+
+ .nav_rm{width: 240px;height: 400px;position: absolute;background: gold}
+ .hover_ul_first {height: 315px;} 
+ .hover_ul_first li{width: 241px;height: 63px;margin-left: -155px;}
+ .hover_ul_first img{float: left;}
+ .hover_ul_first a{display: inherit;}
+ .hover_ul_first h3{height: 17px;}
+ .hover_show {width: 400px;height: 400px;background: green;position: absolute;z-index:1;left: 241px;top:0;display: none; }
+ .nav_rm {display: none;}
+
+
+.main {width: 1580px;height: 350px;background: #f5f5f5;float: left;}
+.main_nav {height: 55px;width: 1260px;margin:20px 0 0 135px;}
+.main_nav li {float: left;line-height: 55px;width: 208px;background: #fafafa ;text-align: center;border: 1px solid #dddddd}
+.main_nav li:first-child{border: none; border-top:6px solid #00b081;}
+.main_div {height: 248px;width: 1260px;margin-left: 135px;margin-top: 6px;border: 1px solid #333;border-top: none;}
+.main_left1 {height: 59px;width: 160px;line-height: 60px;text-align: center;float: left;}
+.main_right1 {float: left;border-bottom:1px solid #333}
+.boder_none{border: none;}
+.main-all1 {height: 62px; }
+.main_ul1 {float: left;width: 955px;}
+.main_ul1 li {display: inline-block;margin-top: 20px;margin-right: 20px;}
+.all-check {width: 42px;background: green;line-height: 20px;height: 20px;text-align: center;display: inline-block;margin: 19px;float: left;}
+
