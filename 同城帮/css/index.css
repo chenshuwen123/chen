@@ -1,0 +1,20 @@
+
+/*body{font-size: 12px/1.5 "Microsoft YaHei","Helvetica Neue",Helvetica,STHeiTi,sans-serif;background: #fff;color: #000;width: 100%}*/
+*{margin:0;padding: 0;font-size: 12px}
+ul {list-style: none;}
+a{text-decoration: none;color: #333}
+.header{background: url(http://p9.qhmsg.com/t011da1a195c36e744d.png) repeat-x #f7f7f7;border-bottom: 1px solid #c7c7c7;color: #666;
+    height: 32px;
+    line-height: 32px;}
+ .header_left{float: left;margin-left: 200px}
+ .header_left li{float: left;margin-left: 10px;    background: url(http://p8.qhmsg.com/t01548f00668b24011b.gif) no-repeat 100% 7px;
+    border: 1px solid transparent;width: 113px;}
+  .header_left li:last-child {background: none;}
+ .header_left span{color: green;margin-right: 8px}
+ .header_right{float: left;margin-left: 450px}
+ .header_right li{float: left;margin-left: 10px;background: url(http://p8.qhmsg.com/t01548f00668b24011b.gif) no-repeat 100% 7px;
+     border: 1px solid transparent; 
+    border-bottom: none;
+    float: left;
+    height: 32px;
+    margin-left: -2px;}
